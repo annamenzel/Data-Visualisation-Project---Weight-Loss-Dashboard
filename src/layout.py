@@ -3,7 +3,7 @@ from __future__ import annotations
 from dash import dcc, html
 import pandas as pd
 
-from charts import (
+from src.charts import (
     create_category_ranking_bar,
     create_macro_comparison_dotplot,
     create_macro_donut,
