@@ -1,4 +1,4 @@
 ## Run locally
 
-pip install -r requirements.txt
-python src/main.py
+1. pip install -r requirements.txt
+2. python src/main.py
